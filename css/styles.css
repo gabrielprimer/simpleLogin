@@ -1,4 +1,4 @@
-/* geral*/
+/* general*/
 
 * {
     margin: 0;
@@ -39,7 +39,7 @@ a:hover {
     text-align: center;
 }
 
-/* formulario */
+/* form */
 
 form {
     margin-top: 30px;
@@ -91,7 +91,7 @@ input[type="submit"]:hover {
     transition: .5s;
 }
 
-/* redes sociais */
+/* social media */
 
 #social-container, #social-container p {
     margin-bottom: 20px;
@@ -115,7 +115,7 @@ input[type="submit"]:hover {
     background-color: #0077B5;
 }
 
-/* registrar */
+/* register */
 
 #register-container p {
     margin-bottom: 10px;
